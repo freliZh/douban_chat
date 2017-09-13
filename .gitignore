@@ -1,0 +1,12 @@
+*.db
+*.json
+*.log
+*.model
+*.pyc
+*.swp
+*.e*
+*.o*
+scp/batch/*
+log/batch/*
+config/batch/*
+model/batch/*
